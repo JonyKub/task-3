@@ -144,7 +144,7 @@ header, .navigation, .web1, .table, .form, footer{
     border-image: initial;
 }
 
-p {
+a {
   color: #2f5687;
   color: rgba(47,86,135,1);
 }
