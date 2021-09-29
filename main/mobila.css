@@ -137,7 +137,7 @@ a{
     background-color: grey;
 }
 header, .navigation, .web1, .table, .form, footer{
-    background-color: rgb(112, 128, 144);
+    background-color: rgb(106 ,106 ,106);
     border-width: thick;
     border-style: double;
     border-color: grey;
