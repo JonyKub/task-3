@@ -143,3 +143,8 @@ header, .navigation, .web1, .table, .form, footer{
     border-color: grey;
     border-image: initial;
 }
+
+p {
+  color: #2f5687;
+  color: rgba(47,86,135,1);
+}
